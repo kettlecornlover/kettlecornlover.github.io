@@ -1,0 +1,96 @@
+
+
+#orderForm {
+    width: 75%;
+    margin: 20px auto;
+}
+#receipt {
+    background-color: #996600;
+    color: yellow;
+    padding: 6px;
+}
+     
+ #Monday, #Tuesday, #Wednesday, #Thursday, #Friday {
+  border: 3px solid Black;
+  width : 20%;
+  padding : 5px;
+  }
+  
+  #5DayWeather {
+    background-color: black;
+    
+  }
+  
+
+
+
+* {
+background-color:lighblue
+
+
+
+   }
+
+
+
+
+
+
+  #Monday{
+    border: dashed 3px blue
+  }
+  
+.raining-orange-juice{
+  background-color: orange;
+  font-family: "SignPainter"
+}
+
+
+.sunny {
+  background-color : yellow;
+  font-family: "Snell Roundhand"
+  
+}
+
+.snowing {
+  
+  background-color : skyblue
+  
+}
+
+.volcano-Eruption {
+  
+  background-color : salmon
+  
+}
+} 
+
+
+
+
+
+.cloudy-and-foggy {
+  
+  background-color : gray
+  
+}
+
+
+.raining {
+  
+  background-color:blue
+  
+
+  }
+  
+  
+
+.Tornado {
+  
+  background-color: brown;
+ 
+
+background{
+  
+  background color = 
+}
